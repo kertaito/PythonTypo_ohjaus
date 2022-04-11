@@ -2,11 +2,19 @@
 
 ## ti 5.4.
 
-suunniteltu:
+### tavoite:
 
   tähän mitä on suunniteltu
   
- toteunut:
+## ti 12.4. 
+
+### toteutunut:
   
   tähän mitä on toteutunut
+
+### tavoite: 
+
+  tavoite tulevalle viikolle
+
+## ti 19.4. 
   
